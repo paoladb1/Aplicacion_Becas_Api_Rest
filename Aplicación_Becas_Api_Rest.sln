@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicación_Becas_Api_Rest", "Aplicación_Becas_Api_Rest\Aplicación_Becas_Api_Rest.csproj", "{889C89C6-714E-4562-B120-B1DE89CF6341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889C89C6-714E-4562-B120-B1DE89CF6341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889C89C6-714E-4562-B120-B1DE89CF6341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889C89C6-714E-4562-B120-B1DE89CF6341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889C89C6-714E-4562-B120-B1DE89CF6341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6801C705-60E9-4724-ADED-81757200D83C}
+	EndGlobalSection
+EndGlobal
